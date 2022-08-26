@@ -9,7 +9,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WesleyNajar&theme=gotham&hide_border=true&area=true)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WesleyNajar/WesleyNajar/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WesleyNajar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
