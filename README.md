@@ -9,7 +9,7 @@
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=WesleyNajar&theme=gotham&hide_border=true&area=true) -->
 
-![snake svg](https://github.com/WesleyNajar/WesleyNajar/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake svg](https://github.com/WesleyNajar/WesleyNajar/blob/output/github-contribution-grid-snake.svg) -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WesleyNajar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -28,6 +28,8 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-0D1117.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### DataBase:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
