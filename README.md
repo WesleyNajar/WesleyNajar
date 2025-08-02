@@ -88,4 +88,7 @@
 </div>
 <p align="center">
 
+<br><br>
+<img src="https://pacman.abozanona.me?username=WesleyNajar" />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
