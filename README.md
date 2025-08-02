@@ -66,7 +66,7 @@ Com o tempo, fui me especializando não só no desenvolvimento em si, mas em com
 
 <div align="center">  
 <a href="https://www.instagram.com/wesleynajar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/wesley-sales-578596212/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/wesley-najar-578596212" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://wa.me/5592993877216" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 </div>
 <p align="center">
