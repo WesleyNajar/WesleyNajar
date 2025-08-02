@@ -16,8 +16,8 @@
   />
 </p>
 
-## 💻 Tech Stack:
-
+<br><br> 
+ 
 <p align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
@@ -58,11 +58,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
 </p>
 
-## 💼 Mensagem aos Recrutadores:
-<p align="center"> 
-Olá! Tudo bem? Me chamo Wesley Najar e sou desenvolvedor full-stack com mais de 3 anos de experiência na área. Tenho atuado em projetos completos, desde a configuração de ambientes na AWS (tanto para desenvolvimento quanto para produção), até a parte de servidores, segurança, testes, arquitetura escalável e, claro, muito código!
-Com o tempo, fui me especializando não só no desenvolvimento em si, mas em como fazer uma aplicação realmente escalar, ser segura e manter a qualidade com testes bem planejados. Já enfrentei desafios como refatorar sistemas inteiros para tecnologias mais modernas e também construir soluções do zero. Tentei resumir ao máximo aqui pra não ficar muito extenso, mas se quiser saber mais sobre minhas experiências ou trocar uma ideia sobre questöes mais técnicas, vai ser um prazer! Me chama e a gente conversa 😄
-</p>
+
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="https://github.com/user-attachments/assets/d6a7c4a5-d704-4d48-a3a6-a7e54ad321bd" alt="Wesley Najar" width="180" style="border-radius: 12px;">
+    </td>
+    <td width="65%">
+      <h2>Mensagem aos Recrutadores</h2>
+      <p>
+        Olá! Tudo bem? Me chamo <strong>Wesley Najar</strong> e sou desenvolvedor full-stack com mais de 3 anos de experiência na área. Tenho atuado em projetos completos, desde a configuração de ambientes na AWS (tanto para desenvolvimento quanto para produção),          até a parte de servidores, segurança, testes, arquitetura escalável e, claro, muito código!
+        <br><br>
+        Com o tempo, fui me especializando não só no desenvolvimento em si, mas em como fazer uma aplicação realmente escalar, ser segura e manter a qualidade com testes bem planejados. Já enfrentei desafios como refatorar sistemas inteiros para tecnologias mais           modernas e também construir soluções do zero.
+        <br><br>
+        Tentei resumir ao máximo aqui pra não ficar muito extenso, mas se quiser saber mais sobre minhas experiências ou trocar uma ideia sobre questões mais técnicas, vai ser um prazer! Me chama e a gente conversa 😄
+        <br><br>
+        <sub><i>📝 Obs: muitos dos meus projetos mais completos e bem elaborados estão privados, pois foram desenvolvidos sob demanda para clientes e, por questões contratuais e de confidencialidade, não posso divulgá-los publicamente.</i></sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 <div align="center">  
 <a href="https://www.instagram.com/wesleynajar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
