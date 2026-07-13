@@ -8,7 +8,6 @@
 </div>
 
 <p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
   <img width="200px" height="200px"
     src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"
     alt="GIF animado"
