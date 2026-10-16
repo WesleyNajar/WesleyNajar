@@ -73,12 +73,20 @@
         <summary><b>🇧🇷 Português</b></summary>
         <h2>Mensagem aos Recrutadores</h2>
         <p>
-          Olá! Tudo bem? Me chamo <strong>Wesley Najar</strong> e sou desenvolvedor full-stack com mais de 3 anos de experiência na área. Tenho atuado em projetos completos, desde a configuração de ambientes na AWS (tanto para desenvolvimento quanto para produção), até a parte de servidores, segurança, testes, arquitetura escalável e, claro, muito código!
-          <br><br>
-          Com o tempo, fui me especializando não só no desenvolvimento em si, mas em como fazer uma aplicação realmente escalar, ser segura e manter a qualidade com testes bem planejados. Já enfrentei desafios como refatorar sistemas inteiros para tecnologias mais modernas e também construir soluções do zero.
-          <br><br>
-          Tentei resumir ao máximo aqui pra não ficar muito extenso, mas se quiser saber mais sobre minhas experiências ou trocar uma ideia sobre questões mais técnicas, vai ser um prazer! Me chama e a gente conversa 😄
-          <br><br>
+          Olá! Me chamo <strong>Wesley Najar</strong>, desenvolvedor full-stack com mais de <strong>4 anos de experiência</strong> e atuação também como <strong>Arquiteto de Software</strong>. Hoje participo da concepção de novos produtos, do levantamento das necessidades de negócio e da definição de requisitos até o desenho da solução, o desenvolvimento, a validação e o deploy.
+        </p>
+        <p><b>O que eu posso entregar para o seu time:</b></p>
+        <ul>
+          <li><b>Arquitetura e produto:</b> análise de requisitos funcionais e não funcionais, modelagem de dados, integrações e avaliação de alternativas técnicas, sempre alinhando as decisões técnicas aos objetivos do produto.</li>
+          <li><b>Desenvolvimento full-stack:</b> Laravel/PHP e Vue.js (também React e Node.js), com SQL Server, PostgreSQL e MySQL.</li>
+          <li><b>Performance:</b> redução de 30% no tempo de resposta de consultas SQL, com análise, indexação e refatoração de procedures.</li>
+          <li><b>Cloud e infraestrutura:</b> AWS (EC2, RDS, Auto Scaling e Load Balancer), Docker, Linux, Nginx, Apache, SSL e deploys.</li>
+          <li><b>Colaboração:</b> contato direto com clientes, ambiente ágil (certificado em Scrum) e integração de soluções de IA e machine learning em aplicações.</li>
+        </ul>
+        <p>
+          Se você busca alguém que una código de qualidade com visão de produto e de negócio, vai ser um prazer conversar. Me chama! 😄
+        </p>
+        <p>
           <sub><i>📝 Obs: muitos dos meus projetos mais completos e bem elaborados estão privados, pois foram desenvolvidos sob demanda para clientes e, por questões contratuais e de confidencialidade, não posso divulgá-los publicamente.</i></sub>
         </p>
       </details>
@@ -86,12 +94,20 @@
         <summary><b>🇺🇸 English</b></summary>
         <h2>Message to Recruiters</h2>
         <p>
-          Hello! How are you? My name is <strong>Wesley Najar</strong> and I'm a full-stack developer with more than 3 years of experience in the field. I have worked on complete projects, from setting up AWS environments (for both development and production) to servers, security, testing, scalable architecture and, of course, a lot of code!
-          <br><br>
-          Over time, I have specialized not only in development itself, but also in how to make an application truly scale, stay secure and maintain quality through well-planned tests. I have already faced challenges such as refactoring entire systems to more modern technologies and also building solutions from scratch.
-          <br><br>
-          I tried to keep this as brief as possible so it doesn't get too long, but if you want to know more about my experience or chat about more technical topics, it will be a pleasure! Reach out and let's talk 😄
-          <br><br>
+          Hello! My name is <strong>Wesley Najar</strong>, a full-stack developer with more than <strong>4 years of experience</strong>, also working as a <strong>Software Architect</strong>. Today I take part in the conception of new products, from identifying business needs and defining requirements to solution design, development, validation, and deployment.
+        </p>
+        <p><b>What I can bring to your team:</b></p>
+        <ul>
+          <li><b>Architecture and product:</b> functional and non-functional requirements analysis, data modeling, integrations, and evaluation of technical alternatives, always aligning technical decisions with product goals.</li>
+          <li><b>Full-stack development:</b> Laravel/PHP and Vue.js (also React and Node.js), with SQL Server, PostgreSQL, and MySQL.</li>
+          <li><b>Performance:</b> 30% reduction in SQL query response time through analysis, indexing, and stored procedure refactoring.</li>
+          <li><b>Cloud and infrastructure:</b> AWS (EC2, RDS, Auto Scaling, and Load Balancer), Docker, Linux, Nginx, Apache, SSL, and deployments.</li>
+          <li><b>Collaboration:</b> direct contact with clients, agile environment (Scrum certified), and integration of AI and machine learning solutions into applications.</li>
+        </ul>
+        <p>
+          If you are looking for someone who combines quality code with product and business vision, it will be a pleasure to talk. Reach out! 😄
+        </p>
+        <p>
           <sub><i>📝 Note: many of my most complete and well-crafted projects are private, since they were developed on demand for clients and, for contractual and confidentiality reasons, I cannot make them public.</i></sub>
         </p>
       </details>
@@ -99,12 +115,20 @@
         <summary><b>🇪🇸 Español</b></summary>
         <h2>Mensaje a los Reclutadores</h2>
         <p>
-          ¡Hola! ¿Cómo estás? Me llamo <strong>Wesley Najar</strong> y soy desarrollador full-stack con más de 3 años de experiencia en el área. He trabajado en proyectos completos, desde la configuración de entornos en AWS (tanto para desarrollo como para producción), hasta la parte de servidores, seguridad, pruebas, arquitectura escalable y, por supuesto, ¡mucho código!
-          <br><br>
-          Con el tiempo, me fui especializando no solo en el desarrollo en sí, sino en cómo lograr que una aplicación realmente escale, sea segura y mantenga la calidad con pruebas bien planificadas. Ya he enfrentado desafíos como refactorizar sistemas enteros hacia tecnologías más modernas y también construir soluciones desde cero.
-          <br><br>
-          Intenté resumir al máximo para que no quedara muy extenso, pero si quieres saber más sobre mis experiencias o conversar sobre temas más técnicos, ¡será un placer! Escríbeme y conversamos 😄
-          <br><br>
+          ¡Hola! Me llamo <strong>Wesley Najar</strong>, desarrollador full-stack con más de <strong>4 años de experiencia</strong> y con funciones de <strong>Arquitecto de Software</strong>. Actualmente participo en la concepción de nuevos productos, desde la identificación de las necesidades de negocio y la definición de requisitos hasta el diseño de la solución, el desarrollo, la validación y el despliegue.
+        </p>
+        <p><b>Lo que puedo aportar a tu equipo:</b></p>
+        <ul>
+          <li><b>Arquitectura y producto:</b> análisis de requisitos funcionales y no funcionales, modelado de datos, integraciones y evaluación de alternativas técnicas, siempre alineando las decisiones técnicas con los objetivos del producto.</li>
+          <li><b>Desarrollo full-stack:</b> Laravel/PHP y Vue.js (también React y Node.js), con SQL Server, PostgreSQL y MySQL.</li>
+          <li><b>Rendimiento:</b> reducción del 30% en el tiempo de respuesta de consultas SQL, mediante análisis, indexación y refactorización de procedimientos almacenados.</li>
+          <li><b>Cloud e infraestructura:</b> AWS (EC2, RDS, Auto Scaling y Load Balancer), Docker, Linux, Nginx, Apache, SSL y despliegues.</li>
+          <li><b>Colaboración:</b> contacto directo con clientes, entorno ágil (certificado en Scrum) e integración de soluciones de IA y machine learning en aplicaciones.</li>
+        </ul>
+        <p>
+          Si buscas a alguien que combine código de calidad con visión de producto y de negocio, será un placer conversar. ¡Escríbeme! 😄
+        </p>
+        <p>
           <sub><i>📝 Nota: muchos de mis proyectos más completos y elaborados son privados, ya que fueron desarrollados a pedido para clientes y, por motivos contractuales y de confidencialidad, no puedo divulgarlos públicamente.</i></sub>
         </p>
       </details>
