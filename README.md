@@ -69,16 +69,45 @@
       <img src="https://github.com/user-attachments/assets/d6a7c4a5-d704-4d48-a3a6-a7e54ad321bd" alt="Wesley Najar" width="180" style="border-radius: 12px;">
     </td>
     <td width="65%">
-      <h2>Mensagem aos Recrutadores</h2>
-      <p>
-        Olá! Tudo bem? Me chamo <strong>Wesley Najar</strong> e sou desenvolvedor full-stack com mais de 3 anos de experiência na área. Tenho atuado em projetos completos, desde a configuração de ambientes na AWS (tanto para desenvolvimento quanto para produção), até a parte de servidores, segurança, testes, arquitetura escalável e, claro, muito código!
-        <br><br>
-        Com o tempo, fui me especializando não só no desenvolvimento em si, mas em como fazer uma aplicação realmente escalar, ser segura e manter a qualidade com testes bem planejados. Já enfrentei desafios como refatorar sistemas inteiros para tecnologias mais modernas e também construir soluções do zero.
-        <br><br>
-        Tentei resumir ao máximo aqui pra não ficar muito extenso, mas se quiser saber mais sobre minhas experiências ou trocar uma ideia sobre questões mais técnicas, vai ser um prazer! Me chama e a gente conversa 😄
-        <br><br>
-        <sub><i>📝 Obs: muitos dos meus projetos mais completos e bem elaborados estão privados, pois foram desenvolvidos sob demanda para clientes e, por questões contratuais e de confidencialidade, não posso divulgá-los publicamente.</i></sub>
-      </p>
+      <details open>
+        <summary><b>🇧🇷 Português</b></summary>
+        <h2>Mensagem aos Recrutadores</h2>
+        <p>
+          Olá! Tudo bem? Me chamo <strong>Wesley Najar</strong> e sou desenvolvedor full-stack com mais de 3 anos de experiência na área. Tenho atuado em projetos completos, desde a configuração de ambientes na AWS (tanto para desenvolvimento quanto para produção), até a parte de servidores, segurança, testes, arquitetura escalável e, claro, muito código!
+          <br><br>
+          Com o tempo, fui me especializando não só no desenvolvimento em si, mas em como fazer uma aplicação realmente escalar, ser segura e manter a qualidade com testes bem planejados. Já enfrentei desafios como refatorar sistemas inteiros para tecnologias mais modernas e também construir soluções do zero.
+          <br><br>
+          Tentei resumir ao máximo aqui pra não ficar muito extenso, mas se quiser saber mais sobre minhas experiências ou trocar uma ideia sobre questões mais técnicas, vai ser um prazer! Me chama e a gente conversa 😄
+          <br><br>
+          <sub><i>📝 Obs: muitos dos meus projetos mais completos e bem elaborados estão privados, pois foram desenvolvidos sob demanda para clientes e, por questões contratuais e de confidencialidade, não posso divulgá-los publicamente.</i></sub>
+        </p>
+      </details>
+      <details>
+        <summary><b>🇺🇸 English</b></summary>
+        <h2>Message to Recruiters</h2>
+        <p>
+          Hello! How are you? My name is <strong>Wesley Najar</strong> and I'm a full-stack developer with more than 3 years of experience in the field. I have worked on complete projects, from setting up AWS environments (for both development and production) to servers, security, testing, scalable architecture and, of course, a lot of code!
+          <br><br>
+          Over time, I have specialized not only in development itself, but also in how to make an application truly scale, stay secure and maintain quality through well-planned tests. I have already faced challenges such as refactoring entire systems to more modern technologies and also building solutions from scratch.
+          <br><br>
+          I tried to keep this as brief as possible so it doesn't get too long, but if you want to know more about my experience or chat about more technical topics, it will be a pleasure! Reach out and let's talk 😄
+          <br><br>
+          <sub><i>📝 Note: many of my most complete and well-crafted projects are private, since they were developed on demand for clients and, for contractual and confidentiality reasons, I cannot make them public.</i></sub>
+        </p>
+      </details>
+      <details>
+        <summary><b>🇪🇸 Español</b></summary>
+        <h2>Mensaje a los Reclutadores</h2>
+        <p>
+          ¡Hola! ¿Cómo estás? Me llamo <strong>Wesley Najar</strong> y soy desarrollador full-stack con más de 3 años de experiencia en el área. He trabajado en proyectos completos, desde la configuración de entornos en AWS (tanto para desarrollo como para producción), hasta la parte de servidores, seguridad, pruebas, arquitectura escalable y, por supuesto, ¡mucho código!
+          <br><br>
+          Con el tiempo, me fui especializando no solo en el desarrollo en sí, sino en cómo lograr que una aplicación realmente escale, sea segura y mantenga la calidad con pruebas bien planificadas. Ya he enfrentado desafíos como refactorizar sistemas enteros hacia tecnologías más modernas y también construir soluciones desde cero.
+          <br><br>
+          Intenté resumir al máximo para que no quedara muy extenso, pero si quieres saber más sobre mis experiencias o conversar sobre temas más técnicos, ¡será un placer! Escríbeme y conversamos 😄
+          <br><br>
+          <sub><i>📝 Nota: muchos de mis proyectos más completos y elaborados son privados, ya que fueron desarrollados a pedido para clientes y, por motivos contractuales y de confidencialidad, no puedo divulgarlos públicamente.</i></sub>
+        </p>
+      </details>
     </td>
   </tr>
 </table>
